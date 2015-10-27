@@ -43,6 +43,6 @@ Ajout d'un utilisateur:
     User creation successful. 
     Trying to login for test user  aqOmuEl
     User login successful.
-    Validation Code is  jkfds9834j98fnm39njf0920fn2
+    Validation Code is  jkfds5834j98fnm39njf0920f02
 
-    --> jkfds9834j98fnm39njf0920fn2
+    --> jkfds5834j98fnm39njf0920f02
